@@ -16,22 +16,22 @@ const Card = ({ imageSrc, title, text }) => {
 const Services = () => {
   const servicesData = [
     {
-      imageSrc: "https://picsum.photos/200", // URL externa a la imagen 1
+      imageSrc: "https://picsum.photos/200", 
       title: "Service 1",
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
-      imageSrc: "https://picsum.photos/200", // URL externa a la imagen 2
+      imageSrc: "https://picsum.photos/200", 
       title: "Service 2",
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
-      imageSrc: "https://picsum.photos/200", // URL externa a la imagen 3
+      imageSrc: "https://picsum.photos/200", 
       title: "Service 3",
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
     {
-      imageSrc: "https://picsum.photos/200", // URL externa a la imagen 4
+      imageSrc: "https://picsum.photos/200", 
       title: "Service 4",
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     },
