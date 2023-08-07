@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.col-md-3 {
+    flex: 0 0 auto;
+    width: 100% !important;
+}
