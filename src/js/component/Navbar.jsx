@@ -2,7 +2,8 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+      {/* Agregamos la clase sticky-top */}
       <div className="container">
         <a className="navbar-brand" href="/">
           Start Bootstrap
